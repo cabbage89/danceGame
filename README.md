@@ -15,4 +15,6 @@
 
 本项目谨记念学生时代那种对编程热情,上进学习的时光!
 
+安卓版(非本人开发): [http://game.gamedog.cn/detail/589297.html](http://game.gamedog.cn/detail/589297.html)
+
 
