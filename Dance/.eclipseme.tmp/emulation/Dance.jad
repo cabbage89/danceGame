@@ -1,0 +1,8 @@
+MIDlet-1: Main,,package1.Main
+MIDlet-Jar-Size: 146449
+MIDlet-Jar-URL: Dance.jar
+MIDlet-Name: Dance Midlet Suite
+MIDlet-Vendor: Midlet Suite Vendor
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
