@@ -18,3 +18,10 @@
 安卓版(非本人开发): [http://game.gamedog.cn/detail/589297.html](http://game.gamedog.cn/detail/589297.html)
 
 
+可以在Snapshot目录中查看游戏快照.
+
+可以使用WTK模块器运行本游戏:
+[sun_java_wireless_toolkit-2.5.2_01-win.exe](http://download.oracle.com/otn/java/sun_java_wireless_toolkit/2.5.2_01/sun_java_wireless_toolkit-2.5.2_01-win.exe)
+
+
+
