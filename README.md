@@ -23,5 +23,9 @@
 可以使用WTK模块器运行本游戏:
 [sun_java_wireless_toolkit-2.5.2_01-win.exe](http://download.oracle.com/otn/java/sun_java_wireless_toolkit/2.5.2_01/sun_java_wireless_toolkit-2.5.2_01-win.exe)
 
+ ![image](https://github.com/cabbage89/danceGame/blob/master/Snapshot/1.png)
 
+ ![image](https://github.com/cabbage89/danceGame/blob/master/Snapshot/2.png)
+
+ ![image](https://github.com/cabbage89/danceGame/blob/master/Snapshot/3.png)
 
