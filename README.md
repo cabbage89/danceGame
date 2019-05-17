@@ -23,6 +23,8 @@
 可以使用WTK模拟器运行本游戏:
 [sun_java_wireless_toolkit-2.5.2_01-win.exe](http://download.oracle.com/otn/java/sun_java_wireless_toolkit/2.5.2_01/sun_java_wireless_toolkit-2.5.2_01-win.exe)
 
+[sun_java_wireless_toolkit-2.5.2_01-win.exe](https://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javame-419430.html#sun_java_wireless_toolkit-2.5.2_01b-oth-JPR)
+
  ![image](https://github.com/cabbage89/danceGame/blob/master/Snapshot/1.png)
 
  ![image](https://github.com/cabbage89/danceGame/blob/master/Snapshot/2.png)
